@@ -18,6 +18,8 @@ I'm a software engineer focused on building clean, scalable, and secure backend 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![APIREST](https://img.shields.io/badge/REST_API-✓-lightgrey?style=for-the-badge)
+
 
 #### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
